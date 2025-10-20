@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #34a0ff;
+    --secondary-color: #16c994;
+    --accent-color: #f97316;
+    --background-color: #f6f8fb;
+    --text-color: #1f2937;
+    --font-family: 'Tajawal', 'Inter', 'Segoe UI', sans-serif;
+    --font-size-base: 16px;
+    --font-size-large: 24px;
+    --font-size-small: 14px;
+}

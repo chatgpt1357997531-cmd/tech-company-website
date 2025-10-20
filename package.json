@@ -1,0 +1,31 @@
+{
+  "name": "tech-company-website",
+  "version": "1.0.0",
+  "description": "A technology programming company website built with React and TypeScript.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^1.3.2",
+    "typescript": "^4.4.3",
+    "vite": "^2.9.16"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "website",
+    "technology",
+    "programming"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
